@@ -1,2 +1,2 @@
 # plserver
-Isolate from the wonderful ultimusdb code
+Isolated from the wonderful ultimusdb code
